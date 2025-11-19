@@ -1,0 +1,145 @@
+{
+  "categories": [
+    { "id": "1", "name": "Flex Printing", "slug": "flex", "icon": "flex.svg" },
+    {
+      "id": "2",
+      "name": "Vinyl Printing",
+      "slug": "vinyl",
+      "icon": "vinyl.svg"
+    },
+    { "id": "3", "name": "Banners", "slug": "banners", "icon": "banner.svg" },
+    {
+      "id": "4",
+      "name": "Business Cards",
+      "slug": "business-cards",
+      "icon": "card.svg"
+    },
+    {
+      "id": "5",
+      "name": "Custom Designing",
+      "slug": "custom-design",
+      "icon": "custom.svg"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "101",
+      "categoryId": "1",
+      "title": "Flex Banner 300 GSM",
+      "description": "Premium eco-solvent flex printing.",
+      "pricePerSqFt": 12,
+      "images": ["https://placehold.co/300x300?text=Flex"],
+      "sizes": ["1x1", "2x3", "4x6", "custom"],
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "102",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    }
+  ],
+
+  "customOrders": [
+    {
+      "id": "CO-001",
+      "userId": "10",
+      "title": "Custom Flex Design",
+      "height": 4,
+      "width": 3,
+      "unit": "feet",
+      "price": 144,
+      "fileUrl": "https://placehold.co/400x400",
+      "notes": "Please print in high quality.",
+      "status": "pending",
+      "createdAt": "2025-01-10"
+    }
+  ],
+
+  "orders": [
+    {
+      "id": "O-1001",
+      "userId": "10",
+      "items": [
+        {
+          "productId": "101",
+          "qty": 2,
+          "width": 4,
+          "height": 3,
+          "unitPrice": 12,
+          "total": 288
+        }
+      ],
+      "deliveryAddress": {
+        "name": "Vimal Dubey",
+        "phone": "9876543210",
+        "address": "Gorakhpur, UP",
+        "pincode": "273001"
+      },
+      "paymentType": "COD",
+      "status": "processing",
+      "createdAt": "2025-02-01"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@omgraphics.com",
+      "phone": "9999999999",
+      "role": "admin",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "10",
+      "name": "Vimal Dubey",
+      "email": "vimal@example.com",
+      "phone": "9876543210",
+      "role": "customer",
+      "createdAt": "2025-01-10"
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": "R-1",
+      "productId": "101",
+      "userId": "10",
+      "rating": 4,
+      "comment": "Great print quality!",
+      "createdAt": "2025-01-02"
+    }
+  ],
+
+  "cart": [
+    {
+      "id": "C-2001",
+      "userId": "10",
+      "items": [
+        {
+          "productId": "101",
+          "qty": 1,
+          "width": 3,
+          "height": 2,
+          "total": 72
+        }
+      ],
+      "updatedAt": "2025-02-01"
+    }
+  ],
+
+  "offers": [
+    {
+      "id": "1",
+      "title": "Flat 10% Off on Vinyl Printing",
+      "image": "https://placehold.co/600x300",
+      "createdAt": "2025-01-02"
+    }
+  ]
+}
