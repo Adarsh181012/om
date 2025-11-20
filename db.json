@@ -42,6 +42,86 @@
       "images": ["https://placehold.co/300x300?text=Vinyl"],
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
+    },
+{
+      "id": "103",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    },
+{
+      "id": "104",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    },
+{
+      "id": "105",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    },
+{
+      "id": "106",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    },
+{
+      "id": "107",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    },
+{
+      "id": "108",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    },
+{
+      "id": "109",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
+    },
+{
+      "id": "110",
+      "categoryId": "2",
+      "title": "Vinyl Poster 80 Mic",
+      "description": "High-quality vinyl with waterproof coating.",
+      "pricePerSqFt": 20,
+      "images": ["https://placehold.co/300x300?text=Vinyl"],
+      "sizes": ["2x3", "3x6", "custom"],
+      "createdAt": "2025-01-05"
     }
   ],
 
