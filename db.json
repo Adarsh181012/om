@@ -1,163 +1,203 @@
 {
   "categories": [
-    { "id": "1", "name": "Flex Printing", "slug": "flex", "icon": "flex.svg" },
     {
       "id": "2",
-      "name": "Vinyl Printing",
-      "slug": "vinyl",
-      "icon": "vinyl.svg"
+      "name": "Visiting Cards",
+      "imageUrl": "assets/images/category/Explore-all-categories_Business-Cards-01.webp",
+      "route": "/product"
     },
-    { "id": "3", "name": "Banners", "slug": "banners", "icon": "banner.svg" },
+    {
+      "id": "3",
+      "name": "Stationery, Letterheads & Notebooks",
+      "imageUrl": "assets/images/category/Explore-all-categories_Mugs_-Albums-and-Gifts-01.webp",
+      "route": "/product"
+    },
     {
       "id": "4",
-      "name": "Business Cards",
-      "slug": "business-cards",
-      "icon": "card.svg"
+      "name": "Stamps and Ink",
+      "imageUrl": "assets/images/category/Explore-all-categories_Business-Cards-01.webp",
+      "route": "/product"
     },
     {
       "id": "5",
-      "name": "Custom Designing",
-      "slug": "custom-design",
-      "icon": "custom.svg"
+      "name": "Signs, Posters & Marketing Materials",
+      "imageUrl": "assets/images/category/Explore-all-categories_Mugs_-Albums-and-Gifts-01.webp",
+      "route": "/product"
+    },
+    {
+      "id": "6",
+      "name": "Labels, Stickers & Packaging",
+      "imageUrl": "assets/images/category/Explore-all-categories_Business-Cards-01.webp",
+      "route": "/product"
+    },
+    {
+      "id": "7",
+      "name": "Clothing, Caps & Bags",
+      "imageUrl": "assets/images/category/Explore-all-categories_Mugs_-Albums-and-Gifts-01.webp",
+      "route": "/product"
+    },
+    {
+      "id": "8",
+      "name": "Mugs, Albums & Gifts",
+      "imageUrl": "assets/images/category/Explore-all-categories_Business-Cards-01.webp",
+      "route": "/product"
+    },
+    {
+      "id": "9",
+      "name": "Custom Polo T-shirts",
+      "imageUrl": "assets/images/category/Explore-all-categories_Mugs_-Albums-and-Gifts-01.webp",
+      "route": "/product"
+    },
+    {
+      "id": "10",
+      "name": "Calendars, Notebooks & Diaries",
+      "imageUrl": "assets/images/category/Explore-all-categories_Business-Cards-01.webp",
+      "route": "/product"
+    },
+    {
+      "id": "11",
+      "name": "Custom Winter Wear",
+      "imageUrl": "assets/images/category/Explore-all-categories_Mugs_-Albums-and-Gifts-01.webp",
+      "route": "/product"
     }
   ],
-"trending": [
-  {
-    "category": "all",
-    "name": "visiting card",
-    "qty": "1 Unit",
-    "rating": "4.5",
-    "price": "18",
-    "img": "assets/images/trending/img1.webp",
-    "discount": "30"
-  },
-  {
-    "category": "all",
-    "name": "flex",
-    "qty": "1 Unit",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img2.webp",
-    "discount": 30
-  },
-  {
-    "category": "fruits",
-    "name": "banner",
-    "qty": "1 Kg",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img3.webp",
-    "discount": 30
-  },
-  {
-    "category": "fruits",
-    "name": "mug and cups",
-    "qty": "1 Kg",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img4.webp",
-    "discount": 30
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img5.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img2.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img3.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img4.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img5.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img1.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img1.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img3.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img4.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img5.webp",
-    "discount": 0
-  },
-  {
-    "category": "juices",
-    "name": "t-shirt",
-    "qty": "1 Bottle",
-    "rating": 4.5,
-    "price": 18,
-    "img": "assets/images/trending/img2.webp",
-    "discount": 0
-  }
-],
+  "trending": [
+    {
+      "category": "all",
+      "name": "visiting card",
+      "qty": "1 Unit",
+      "rating": "4.5",
+      "price": "18",
+      "img": "assets/images/trending/img1.webp",
+      "discount": "30"
+    },
+    {
+      "category": "all",
+      "name": "flex",
+      "qty": "1 Unit",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img2.webp",
+      "discount": 30
+    },
+    {
+      "category": "fruits",
+      "name": "banner",
+      "qty": "1 Kg",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img3.webp",
+      "discount": 30
+    },
+    {
+      "category": "fruits",
+      "name": "mug and cups",
+      "qty": "1 Kg",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img4.webp",
+      "discount": 30
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img5.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img2.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img3.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img4.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img5.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img1.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img1.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img3.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img4.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img5.webp",
+      "discount": 0
+    },
+    {
+      "category": "juices",
+      "name": "t-shirt",
+      "qty": "1 Bottle",
+      "rating": 4.5,
+      "price": 18,
+      "img": "assets/images/trending/img2.webp",
+      "discount": 0
+    }
+  ],
 
   "products": [
     {
@@ -180,7 +220,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "103",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
@@ -190,7 +230,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "104",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
@@ -200,7 +240,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "105",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
@@ -210,7 +250,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "106",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
@@ -220,7 +260,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "107",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
@@ -230,7 +270,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "108",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
@@ -240,7 +280,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "109",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
@@ -250,7 +290,7 @@
       "sizes": ["2x3", "3x6", "custom"],
       "createdAt": "2025-01-05"
     },
-{
+    {
       "id": "110",
       "categoryId": "2",
       "title": "Vinyl Poster 80 Mic",
